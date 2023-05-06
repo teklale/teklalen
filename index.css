@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.login-container{
+    margin-top: 15%;
+
+}
+
+.login-form{
+    border-radius: 1rem;
+    -webkit-border-radius: 1rem;
+    -moz-border-radius: 1rem;
+    -ms-border-radius: 1rem;
+    -o-border-radius: 1rem;
+    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0;
+    
+}
+
+.login-form-1 h3{
+    text-align: center;
+    color:#333;
+}
+
+.btnSubmit{
+    width: 100%;
+    padding: 1.5%;
+    border: none;
+    cursor: pointer;
+    color: #ffffff;
+    background-color: green;
+    text-align: center;
+    border-radius: 1rem;
+    -webkit-border-radius: 1rem;
+    -moz-border-radius: 1rem;
+    -ms-border-radius: 1rem;
+    -o-border-radius: 1rem;
+}
